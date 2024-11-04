@@ -1,15 +1,7 @@
 # Apache-project
-# Apache VirtualHost Configuration with Ansible
- 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Configuration](#configuration)
-- [Usage](#usage)
 
+**Apache VirtualHost Configuration with Ansible**
+ 
 ## Overview
 
 This Ansible project automates Apache (httpd) web server configuration with multiple virtualhosts, featuring custom logging, SSL configuration, and private directory authentication.
